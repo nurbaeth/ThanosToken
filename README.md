@@ -8,7 +8,7 @@ ThanosToken is an ERC-20 token with a built-in burn mechanism. A small percentag
 - **Fully ERC-20 Compliant** – Can be integrated with any ERC-20 compatible wallet or exchange.
 
 ## Smart Contract Details
-- **Token Name:** ThanosToken
+- **Token Name:** ThanosToken 
 - **Symbol:** THN 
 - **Decimals:** 18
 - **Burn Rate:** Adjustable (default set during deployment)
