@@ -23,7 +23,7 @@ To deploy the contract, use Hardhat or Remix with Solidity 0.8.20.
    git clone https://github.com/your-repo/thanos-token.git
    cd thanos-token
    ```
-2. Install dependencies:
+2. Install dependencies: 
    ```sh
    npm install
    ```
